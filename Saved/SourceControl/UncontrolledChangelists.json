@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UNIyear2/Night-Stalker/Content/Blueprints/PlayercontrolerMain.uasset",
+				"D:/UNIyear2/Night-Stalker/Content/Blueprints/Playercontoler.uasset",
+				"D:/UNIyear2/Night-Stalker/Content/__ExternalActors__/NightStalkermain/9/TQ/U2W0TFYNUIY41EJRE7H8J7.uasset",
+				"D:/UNIyear2/Night-Stalker/Content/Blueprints/Player.uasset",
 				"C:/Users/LiLBL/Documents/Unreal Projects/NightStalker/Content/Blueprints/TopDownGameMode.uasset",
 				"C:/Users/LiLBL/Documents/Unreal Projects/NightStalker/Content/NightStalkermain_HLOD0_Instancing.uasset",
 				"C:/Users/LiLBL/Documents/Unreal Projects/NightStalker/Content/__ExternalActors__/NightStalkermain/D/CI/9RS7TMZFAECKGYZXIGOZEQ.uasset",
